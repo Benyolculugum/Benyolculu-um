@@ -6,4 +6,3 @@ export default function ToplulukPage() {
                           </main>
                             );
                             }
-}
